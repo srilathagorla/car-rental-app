@@ -1,0 +1,16 @@
+/* src/App.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.dashboard {
+  margin: 20px;
+}
+
+button {
+margin:5px;
+}
